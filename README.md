@@ -1,4 +1,5 @@
 # Movie Recommendation engine
+The data was scrapped from the TMDB API using scrappers.
 This project is divided into two parts:
 1. The​ ​Story​ ​of​ ​Film:​ ​This section aims at narrating the history, trivia and facts behind the
 world of cinema through the lens of data. Extensive Exploratory Data Analysis is
